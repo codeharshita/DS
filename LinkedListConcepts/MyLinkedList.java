@@ -49,7 +49,7 @@ public class MyLinkedList {
 		Node sixth = ll.new Node(140);
 		fifth.next=sixth;
 
-		ll.printMyLinkedList();// calling method
+		ll.printMyLinkedList();// calling method.
 		
 		
 
